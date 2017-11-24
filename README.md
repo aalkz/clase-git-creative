@@ -68,8 +68,13 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 ## Releases
 
+### 1.2
+
+* New telephone number and new secret message! 
+
 ### 1.1
 * New ship and templates icons!
+
 
 ## Copyright and License
 
