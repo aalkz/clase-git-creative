@@ -68,6 +68,10 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 ## Releases
 
+### 1.2.1
+
+* Bugfix mail and secret message
+
 ### 1.2
 
 * New telephone number and new secret message! 
